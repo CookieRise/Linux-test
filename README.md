@@ -92,3 +92,6 @@ touch files;
 echo "回显内容"
 reboot
 ```
+
+## 插入图片
+![dog.jpg](https://s2.loli.net/2022/08/14/ED8bn7iFqflz51G.jpg)
