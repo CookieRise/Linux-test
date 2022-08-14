@@ -71,3 +71,24 @@ GTA5|95$|TOP3
 [Bilibili弹幕网](https://www.bilibili.com "点击进入B站")<br>
 [百度搜索](https://www.baidu.com "点击进入")<br>
 
+## 插入代码片段
+```c
+#include<strdio.h>
+int main()
+{
+	printf("testing...\n");
+	return 0;
+}
+```
+```cpp
+#include<iostream>
+using namespace std;
+```
+```python
+import os;
+```
+```bash
+touch files;
+echo "回显内容"
+reboot
+```
