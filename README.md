@@ -66,3 +66,8 @@
 MONSTER HUNTER RISE|98$|TOP2
 GTA5|95$|TOP3
 
+## 超链接
+
+[Bilibili弹幕网](https://www.bilibili.com "点击进入B站")<br>
+[百度搜索](https://www.baidu.com "点击进入")<br>
+
